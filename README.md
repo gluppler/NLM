@@ -24,7 +24,7 @@
 1. **Clone the Repository**:
    ```bash
    git clone <repository-url>
-   cd no-language-matters
+   cd nlm
    ```
 
 2. **Install Dependencies**:
