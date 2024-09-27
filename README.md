@@ -12,6 +12,30 @@
 - **Character Frequency Analysis**: It calculates the frequency of characters in each generation of tokens, providing insights into language usage patterns.
 - **CSV Export**: The results, including generations, fuzzy word frequencies, and average character frequencies, can be exported to a CSV file for further analysis or reporting.
 
+## Fuzzy Logic Diagram
+User Input
+    |
+    V
+Preprocessing (Tokenization, Stop-word removal)
+    |
+    V
+Character & Word Extraction
+    |
+    V
+    +-------------------+
+    |                   |
+Fuzzy Grouping     Token Mutation (Generations)
+    |                   |
+    V                   |
+Fuzzy Frequencies  Mutated Generations
+    |                   |
+    +-------------------+
+             |
+         CSV Export
+             |
+        ML Model (Prediction)
+
+
 ## How-To Guide
 
 ### Prerequisites
