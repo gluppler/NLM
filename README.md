@@ -12,7 +12,7 @@
 - **Character Frequency Analysis**: It calculates the frequency of characters in each generation of tokens, providing insights into language usage patterns.
 - **CSV Export**: The results, including generations, fuzzy word frequencies, and average character frequencies, can be exported to a CSV file for further analysis or reporting.
 
-## Fuzzy Logic Diagram
+## Fuzzy Logic of NLM
 
 ### Step 1: **Input Text Collection**
 - **Description**: The user provides a text input that is to be analyzed by the system.
