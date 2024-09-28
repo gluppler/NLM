@@ -1,7 +1,7 @@
 # NLM
 ## Project Description: No Language Matters
 
-**No Language Matters** is a dynamic text processing application designed to analyze and mutate linguistic input in various ways. The project aims to explore the nuances of language by aggregating fuzzy word frequencies, generating mutations of textual data, and calculating average character frequencies. This application leverages principles of functional programming and fuzzy logic to create a unique environment for examining language patterns, emphasizing that communication transcends linguistic barriers.
+**No Language Matters** is a dynamic CLI text processing application designed to analyze and mutate linguistic input in various ways. The project aims to explore the nuances of language by aggregating fuzzy word frequencies, generating mutations of textual data, and calculating average character frequencies. This application leverages principles of functional programming and fuzzy logic to create a unique environment for examining language patterns, emphasizing that communication transcends linguistic barriers.
 
 ### Key Features:
 
